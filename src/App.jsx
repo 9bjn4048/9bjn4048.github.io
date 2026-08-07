@@ -1,26 +1,39 @@
+import Navbar from "./components/Navbar/Navbar";
+import Hero from "./components/Hero/Hero";
+import About from "./components/About/About";
+import Skills from "./components/Skills/Skills";
+import Journey from "./components/Journey/Journey";
+import Projects from "./components/Projects/Projects";
+import Services from "./components/Services/Services";
+import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer";
+
 function App() {
   return (
     <div className="app">
+
+      <Navbar />
+
       <main>
-        <section className="hero">
-          <div className="container">
-            <p className="section-label">Portfolio / 2026</p>
 
-            <h1 className="section-title">
-              Avinash
-              <br />
-              <em>Cyber Security</em>
-              <br />
-              Engineer.
-            </h1>
+        <Hero />
 
-            <p className="hero-intro">
-              Cyber security student and full stack developer
-              building secure, modern digital experiences.
-            </p>
-          </div>
-        </section>
+        <About />
+
+        <Skills />
+
+        <Journey />
+
+        <Projects />
+
+        <Services />
+
+        <Contact />
+
       </main>
+
+      <Footer />
+
     </div>
   );
 }
