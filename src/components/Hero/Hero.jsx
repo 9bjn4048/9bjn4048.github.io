@@ -116,17 +116,17 @@ function Hero() {
               }}
             >
 
-              Who
+              Building
 
               <span>
-                I
+                Secure
               </span>
 
               <em>
-                Am
+                Digital
               </em>
 
-              
+              Experiences.
 
             </motion.h1>
 
