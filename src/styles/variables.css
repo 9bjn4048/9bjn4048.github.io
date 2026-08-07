@@ -1,0 +1,59 @@
+:root {
+  --color-bg: #f7f4ee;
+  --color-bg-secondary: #eee9df;
+
+  --color-white: #ffffff;
+
+  --color-text: #1b1b1b;
+  --color-text-secondary: #6d6a65;
+  --color-text-muted: #98938b;
+
+  --color-bronze: #8a6e4b;
+  --color-bronze-light: #cbb89d;
+  --color-bronze-soft: #e4d7c5;
+
+  --color-border: rgba(27, 27, 27, 0.1);
+  --color-border-light: rgba(27, 27, 27, 0.06);
+
+  --font-display:
+    "Cormorant Garamond",
+    Georgia,
+    serif;
+
+  --font-body:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 7rem;
+  --space-xxl: 10rem;
+
+  --radius-sm: 10px;
+  --radius-md: 18px;
+  --radius-lg: 28px;
+  --radius-xl: 40px;
+
+  --shadow-soft:
+    0 10px 40px rgba(43, 37, 29, 0.06);
+
+  --shadow-medium:
+    0 20px 60px rgba(43, 37, 29, 0.1);
+
+  --transition-fast: 0.25s ease;
+
+  --transition-medium:
+    0.5s cubic-bezier(0.22, 1, 0.36, 1);
+
+  --transition-slow:
+    0.8s cubic-bezier(0.22, 1, 0.36, 1);
+
+  --container: 1400px;
+
+  --page-padding: 5vw;
+}
